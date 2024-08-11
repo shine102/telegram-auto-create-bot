@@ -1,6 +1,6 @@
 # How to run
 1. Go to https://my.telegram.org/apps and create a new app.
-2. Get the API_ID and API_HASH and fill in script.
+2. Get the API_ID and API_HASH and fill in script. Rename bot in script.
 3. Install the requirements.
 ```bash
 pip install -r requirements.txt
